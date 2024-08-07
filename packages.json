@@ -3,5 +3,10 @@
         "package": "lintrall",
         "url": "https://github.com/TimTaylor/lintrall",
         "subdir": "pkg"
+    },
+
+    {
+        "package": "ageutils",
+        "url": "https://github.com/TimTaylor/ageutils"
     }
 ]
