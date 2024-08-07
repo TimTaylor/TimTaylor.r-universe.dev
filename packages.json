@@ -23,5 +23,10 @@
     {
         "package": "incidence2",
         "url": "https://github.com/reconverse/incidence2"
+    },
+
+    {
+        "package": "i2extras",
+        "url": "https://github.com/reconverse/i2extras"
     }
 ]
