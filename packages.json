@@ -18,5 +18,10 @@
     {
         "package": "grates",
         "url": "https://github.com/reconverse/grates"
+    },
+
+    {
+        "package": "incidence2",
+        "url": "https://github.com/reconverse/incidence2"
     }
 ]
