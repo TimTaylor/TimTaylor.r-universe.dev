@@ -28,5 +28,10 @@
     {
         "package": "i2extras",
         "url": "https://github.com/reconverse/i2extras"
+    },
+
+    {
+        "package": "super",
+        "url": "https://github.com/TimTaylor/super"
     }
 ]
