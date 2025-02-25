@@ -17,7 +17,7 @@
 
     {
         "package": "grates",
-        "url": "https://github.com/reconverse/grates"
+        "url": "https://github.com/reconverse/grates",
 	"subdir": "pkg"
     },
 
@@ -33,7 +33,7 @@
 
     {
         "package": "super",
-        "url": "https://github.com/TimTaylor/super"
+        "url": "https://github.com/TimTaylor/super",
 	"subdir": "pkg"
     }
 ]
