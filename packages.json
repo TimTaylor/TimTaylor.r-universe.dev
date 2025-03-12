@@ -8,32 +8,5 @@
     {
         "package": "ageutils",
         "url": "https://github.com/TimTaylor/ageutils"
-    },
-
-    {
-        "package": "ympes",
-        "url": "https://github.com/TimTaylor/ympes"
-    },
-
-    {
-        "package": "grates",
-        "url": "https://github.com/reconverse/grates",
-	"subdir": "pkg"
-    },
-
-    {
-        "package": "incidence2",
-        "url": "https://github.com/reconverse/incidence2"
-    },
-
-    {
-        "package": "i2extras",
-        "url": "https://github.com/reconverse/i2extras"
-    },
-
-    {
-        "package": "super",
-        "url": "https://github.com/TimTaylor/super",
-	"subdir": "pkg"
     }
 ]
