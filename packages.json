@@ -1,5 +1,11 @@
 [
     {
+        "package": "odin2test",
+        "url": "https://github.com/TimTaylor/odin2test",
+        "subdir": "pkg"
+    },
+
+    {
         "package": "lintrall",
         "url": "https://github.com/TimTaylor/lintrall",
         "subdir": "pkg"
