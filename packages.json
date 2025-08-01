@@ -12,9 +12,13 @@
     },
 
     {
-        "package": "yp",
+        "package": "tp",
         "url": "https://github.com/TimTaylor/tp"
-    }
+    },
 
+    {
+        "package": "qalytools",
+        "url": "https://github.com/TimTaylor/qalytools"
+    }
 
 ]
