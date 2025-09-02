@@ -19,6 +19,12 @@
     {
         "package": "qalytools",
         "url": "https://github.com/TimTaylor/qalytools"
+    },
+
+    {
+	    "package": "ronfig",
+	    "url": "https://codeberg.org/TimTaylor/ronfig",
+	    "subdir": "pkg"
     }
 
 ]
