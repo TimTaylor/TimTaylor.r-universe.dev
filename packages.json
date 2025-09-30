@@ -25,6 +25,12 @@
 	    "package": "ronfig",
 	    "url": "https://codeberg.org/TimTaylor/ronfig",
 	    "subdir": "pkg"
+    },
+
+    {
+	    "package": "pipeline",
+	    "url": "https://codeberg.org/TimTaylor/pipeline",
+	    "subdir": "pkg"
     }
 
 ]
