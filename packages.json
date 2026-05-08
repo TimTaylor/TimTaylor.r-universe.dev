@@ -30,7 +30,8 @@
     {
 	    "package": "pipeline",
 	    "url": "https://codeberg.org/TimTaylor/pipeline",
-	    "subdir": "pkg"
+	    "subdir": "pkg",
+	    "branch" : "v0.0.0.9164"
     }
 
 ]
