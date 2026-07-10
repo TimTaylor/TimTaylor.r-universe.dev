@@ -32,6 +32,12 @@
 	    "url": "https://codeberg.org/TimTaylor/pipeline",
 	    "subdir": "pkg",
 	    "branch" : "v0.0.0.9165"
+    },
+
+    {
+	    "package": "pippy",
+	    "url": "https://codeberg.org/TimTaylor/pippy",
+	    "subdir": "pkg"
     }
 
 ]
